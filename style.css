@@ -1,0 +1,124 @@
+@media screen and (max-width: 700px){
+    .text_sec2{
+        font-size: 8px;
+        text-align: center;
+        margin-left: 35px;
+    }
+    .text_sec2 a{
+        font-size: 15px;
+        text-align: center;
+        margin-left: 35px;
+    }
+    .sec2{
+        font-size: 12px;
+    }
+    .cen p{
+        width: 20%;
+    }
+}
+
+body{
+    font-family: "Open Sans", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+nav a{
+    font-size: 1.1em;
+    padding-right: 30px;
+    text-decoration: none;
+    color: #181818;
+}
+nav a:hover{
+    color: #0096ff;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: #0074c8;
+    
+}
+a:hover{
+    text-decoration: none;
+    color: #0096ff;
+}
+.sec2{
+    color: #000000;
+}
+.text_sec2{
+    position: absolute;
+    top: 70px;
+    height: 100%;
+    color: rgb(53, 53, 51);
+}
+.text_sec2 h1{
+    font-size: 3.25em;
+}
+.sec2 img{
+    width: 98%;
+}
+.btn-blu{
+    width: 250px;
+    height: 50px;
+}
+.btn-blu:hover{
+    background-color: #0074c8;
+}
+.cen h1{
+    font-size: 1.5em;
+    font-weight: 400;
+}
+.cen p{
+    color: #b8b4b4;
+    margin-left: 150px;
+    width: 50%;
+    font-size: 20px;
+}
+.pos{
+    position: relative;
+    top: 30%;
+    height: 450px;
+    width: 100%;
+}
+.text_pos{
+    text-align: center;
+    margin-left: 35%;
+    position: absolute;
+    top:25%;
+}
+.pos img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.text_pos h1{
+    color: #ffffff;
+}
+.text_pos p{
+    color: #b8b4b4;
+}
+footer{
+    background-color: #f8f8f8;
+}
+.avant_foo a{
+    text-decoration: none;
+    /*color: #b8b4b4;*/
+    color: #666;
+    font-size: 1rem;
+}
+.avant_foo h5{
+    font-size: 1.15rem;
+    font-weight: 900;
+}
+.avant_foo li{
+    padding-top: 0.5em;
+}
+.a_style{
+    color: #666;
+    font-size: 0.8em;    
+    text-decoration: none;
+}
+.a_style a{
+    color: #666;
+}
+.li_style{
+    border-right: 1px solid #ddd;
+    padding-right: 1%;
+}
